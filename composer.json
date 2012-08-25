@@ -1,0 +1,25 @@
+{
+    "name": "zczapran/doctrine-iterator",
+    "type": "library",
+    "description": "Efficient (parallel-enabled) iterator for Doctrine 2 ORM",
+    "keywords": ["iterator", "orm", "doctrine", "collection", "efficient", "parallel"],
+    "homepage": "http://doctrine-collection-iterator.zczapran.com",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Zbigniew Czapran",
+            "homepage": "http://zczapran.com"
+        }
+    ],
+    
+    "require": {
+        "doctrine/orm": ">=2.2.3,<2.4-dev"
+    },
+
+    "autoload": {
+        "psr-0": { "Zczapran\\Doctrine\\ORM": "lib/", "Zczapran\\Tests\\Doctrine\\ORM": "tests/" }
+    },
+    
+    "target-dir": "zczapran/doctrine-iterator"
+}
