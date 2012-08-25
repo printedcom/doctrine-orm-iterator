@@ -1,7 +1,7 @@
 {
-    "name": "zczapran/doctrine-iterator",
+    "name": "zczapran/doctrine-orm-iterator",
     "type": "library",
-    "description": "Efficient (parallel-enabled) iterator for Doctrine 2 ORM",
+    "description": "Efficient iterator for Doctrine ORM",
     "keywords": ["iterator", "orm", "doctrine", "collection", "efficient", "parallel"],
     "homepage": "http://doctrine-collection-iterator.zczapran.com",
     "license": "MIT",
