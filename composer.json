@@ -1,7 +1,7 @@
 {
     "name": "zczapran/doctrine-orm-iterator",
     "type": "library",
-    "version": "1.0.0-RC1"
+    "version": "1.0.0-RC1",
     "description": "Efficient iterator for Doctrine ORM",
     "keywords": ["iterator", "orm", "doctrine", "collection", "efficient"],
     "homepage": "http://doctrine-orm-iterator.zczapran.com",
