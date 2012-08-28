@@ -21,7 +21,5 @@
 
     "autoload": {
         "psr-0": { "Zczapran\\Doctrine\\ORM": "lib/", "Zczapran\\Tests\\Doctrine\\ORM": "tests/" }
-    },
-    
-    "target-dir": "zczapran/doctrine-iterator"
+    }
 }
