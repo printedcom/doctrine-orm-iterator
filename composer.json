@@ -1,20 +1,22 @@
 {
     "name": "zczapran/doctrine-orm-iterator",
     "type": "library",
+    "version": "1.0.0-RC1"
     "description": "Efficient iterator for Doctrine ORM",
-    "keywords": ["iterator", "orm", "doctrine", "collection", "efficient", "parallel"],
-    "homepage": "http://doctrine-collection-iterator.zczapran.com",
+    "keywords": ["iterator", "orm", "doctrine", "collection", "efficient"],
+    "homepage": "http://doctrine-orm-iterator.zczapran.com",
     "license": "MIT",
-    "minimum-stability": "dev",
+    "minimum-stability": "RC",
     "authors": [
         {
             "name": "Zbigniew Czapran",
-            "homepage": "http://zczapran.com"
+            "homepage": "http://zczapran.com",
+            "email": "zczapran@gmail.com"            
         }
     ],
     
     "require": {
-        "doctrine/orm": ">=2.2.3,<2.4-dev"
+        "doctrine/orm": ">=2.1.6,<2.4"
     },
 
     "autoload": {
