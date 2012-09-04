@@ -1,5 +1,7 @@
 # Doctrine ORM Iterator #
 
+[![Build Status](https://secure.travis-ci.org/zczapran/doctrine-orm-iterator.png)](http://travis-ci.org/zczapran/doctrine-orm-iterator)
+
 ## Introduction ##
 
 Efficient iterator for Doctrine ORM. Allows for paginated traversing of database collection by specifing a QueryBuilder object that represents a query that retrieve the desired data. The only requirement is that the collection has to have a key with ability to order by it.
