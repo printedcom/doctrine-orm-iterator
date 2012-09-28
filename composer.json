@@ -4,7 +4,7 @@
     "version": "1.0.0-RC1",
     "description": "Efficient iterator for Doctrine ORM",
     "keywords": ["iterator", "orm", "doctrine", "collection", "efficient"],
-    "homepage": "http://doctrine-orm-iterator.zczapran.com",
+    "homepage": "http://github.com/zczapran/doctrine-orm-iterator/blob/master/README.md",
     "license": "MIT",
     "minimum-stability": "RC",
     "authors": [
