@@ -1,12 +1,12 @@
 {
     "name": "zczapran/doctrine-orm-iterator",
     "type": "library",
-    "version": "1.0.0-RC1",
+    "version": "1.0.0",
     "description": "Efficient iterator for Doctrine ORM",
     "keywords": ["iterator", "orm", "doctrine", "collection", "efficient"],
     "homepage": "http://github.com/zczapran/doctrine-orm-iterator/blob/master/README.md",
     "license": "MIT",
-    "minimum-stability": "RC",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Zbigniew Czapran",
